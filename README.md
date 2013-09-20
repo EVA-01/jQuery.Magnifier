@@ -1,7 +1,7 @@
 jQuery.Magnifier
 ================
 
-Create a magnifying glass for images similar to what is used on eBay.
+Create a magnifying glass for images (similar to what is used on eBay).
 
 ## Initialize magnifier
 
